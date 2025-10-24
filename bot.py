@@ -3,7 +3,6 @@
 A simple bot for basic communication and interactions.
 """
 
-import sys
 from datetime import datetime
 
 
